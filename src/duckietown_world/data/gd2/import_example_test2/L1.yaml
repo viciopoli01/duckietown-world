@@ -1,0 +1,6 @@
+layer1:
+  (1, 0, 1):
+    angle: T
+    type: curve
+  tile_size: 0.111
+layer1: !include L2.yaml
